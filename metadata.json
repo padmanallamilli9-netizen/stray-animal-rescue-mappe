@@ -1,0 +1,6 @@
+{
+  "name": "Stray Animal Rescue Mapper",
+  "description": "A beautifully-crafted single-screen coordinate hub to report injured or stray animals, track active rescues, search shelter mapping, and dispatch helpers in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
